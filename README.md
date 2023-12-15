@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/huy.bat.tu.9999999999" alt="Facebook">
     <img width="70px" src="https://img.icons8.com/fluency/256/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/Quanghwi" alt="Github">
+  <a href="https://github.com/QuangHwii" alt="Github">
     <img width="70px" src="https://img.icons8.com/fluency/256/github.png"/>
   </a> 
   <a href="https://www.instagram.com/huybattu_03" alt="Kaggle" target="_blank" >
